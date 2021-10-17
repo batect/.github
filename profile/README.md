@@ -1,4 +1,4 @@
-![Batect logo](./logo.svg)
+![Batect logo](/profile/logo.svg)
 
 Batect allows you to define your development tasks (building, running, testing, linting and more) in terms of one or more
 Docker containers, run those tasks quickly and consistently everywhere, and easily share them with your team.
