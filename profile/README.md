@@ -1,6 +1,1 @@
-![Batect logo](/profile/logo.svg)
-
-Batect allows you to define your development tasks (building, running, testing, linting and more) in terms of one or more
-Docker containers, run those tasks quickly and consistently everywhere, and easily share them with your team.
-
-Check out [batect.dev](https://batect.dev) for documentation, tutorials, sample projects and news.
+:warning: Batect is no longer maintained. [More details](https://batect.dev/blog/2023/10/22/batect-is-no-longer-maintained)
